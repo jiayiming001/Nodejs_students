@@ -1,0 +1,2 @@
+::ffff:10.244.4.72 - - [05/Jun/2018:07:59:11 +0000] "GET /sd HTTP/1.1" 404 141 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
+::ffff:10.244.4.72 - - [05/Jun/2018:07:59:16 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"

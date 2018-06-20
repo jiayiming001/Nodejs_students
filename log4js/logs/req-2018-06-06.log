@@ -1,0 +1,14 @@
+[2018-06-06T14:23:53.135] [INFO] default - test info 1
+[2018-06-06T14:24:02.234] [INFO] default - [::ffff:127.0.0.1 GET / 200 20ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:24:02.303] [INFO] default - [::ffff:127.0.0.1 GET /favicon.ico 404 2ms][http://127.0.0.1:8080/ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:24:11.355] [INFO] default - [::ffff:127.0.0.1 GET /sdasd 404 1ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:25:57.910] [INFO] default - test info 1
+[2018-06-06T14:26:08.831] [INFO] default - [::ffff:127.0.0.1 GET / 200 3ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:12.833] [INFO] default - [::ffff:127.0.0.1 GET / 200 1ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:16.589] [INFO] default - [::ffff:127.0.0.1 GET /35456 404 2ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:18.861] [INFO] default - [::ffff:127.0.0.1 GET /35456 404 0ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:19.010] [INFO] default - [::ffff:127.0.0.1 GET /35456 404 0ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:19.169] [INFO] default - [::ffff:127.0.0.1 GET /35456 404 1ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:19.315] [INFO] default - [::ffff:127.0.0.1 GET /35456 404 0ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:19.442] [INFO] default - [::ffff:127.0.0.1 GET /35456 404 1ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
+[2018-06-06T14:26:19.550] [INFO] default - [::ffff:127.0.0.1 GET /35456 404 1ms][ HTTP/1.1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36]
